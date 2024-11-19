@@ -253,7 +253,7 @@ p {
 }
 
 .img9 {
-    background-image: url(/images/ipaja.jpg);
+    background-image: url(images/ipaja.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -263,7 +263,7 @@ p {
 }
 
 .img10 {
-    background-image: url(/images/ffruit.jpg);
+    background-image: url(images/ffruit.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
